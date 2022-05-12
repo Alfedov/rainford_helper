@@ -1,0 +1,1105 @@
+14:55:57.799 INFO  Loading commands... 
+14:55:58.016 DEBUG Skipping slash command avatar. Disabled! 
+14:55:58.022 DEBUG Skipping slash command botinvite. Disabled! 
+14:55:58.250 DEBUG Skipping slash command botstats. Disabled! 
+14:55:58.256 DEBUG Skipping slash command channelinfo. Disabled! 
+14:55:58.261 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:55:58.267 DEBUG Skipping slash command guildinfo. Disabled! 
+14:55:58.270 DEBUG Skipping slash command uptime. Disabled! 
+14:55:58.276 DEBUG Skipping slash command userinfo. Disabled! 
+14:55:58.290 DEBUG Skipping command bot. Disabled! 
+14:55:58.297 DEBUG Skipping command info. Disabled! 
+14:55:58.359 DEBUG Skipping slash command deafen. Disabled! 
+14:55:58.364 DEBUG Skipping slash command disconnect. Disabled! 
+14:55:58.372 DEBUG Skipping slash command move. Disabled! 
+14:55:58.378 DEBUG Skipping slash command purge. Disabled! 
+14:55:58.382 DEBUG Skipping slash command purgeattach. Disabled! 
+14:55:58.385 DEBUG Skipping slash command purgebots. Disabled! 
+14:55:58.390 DEBUG Skipping slash command purgelinks. Disabled! 
+14:55:58.393 DEBUG Skipping slash command purgetoken. Disabled! 
+14:55:58.395 DEBUG Skipping slash command purgeuser. Disabled! 
+14:55:58.408 DEBUG Skipping command purge. Disabled! 
+14:55:58.413 DEBUG Skipping command voice. Disabled! 
+14:55:58.423 DEBUG Skipping slash command undeafen. Disabled! 
+14:55:58.429 DEBUG Skipping slash command vmute. Disabled! 
+14:55:58.431 DEBUG Skipping slash command vunmute. Disabled! 
+14:55:58.560 INFO  Loaded 96 commands 
+14:55:58.562 INFO  Loaded 80 slash commands 
+14:55:58.572 INFO  Loading contexts... 
+14:55:58.584 INFO  Loaded 2 USER contexts 
+14:55:58.590 INFO  Loaded 0 MESSAGE contexts 
+14:55:58.591 INFO  Loading events... 
+14:55:58.774 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:55:58.775 INFO  Validating config.js and environment variables 
+14:55:58.778 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:55:58.779 WARN  config.js: SUPPORT_SERVER is not provided 
+14:55:58.785 INFO  Connecting to MongoDb... 
+14:56:59.392 INFO  Loading commands... 
+14:56:59.572 DEBUG Skipping slash command avatar. Disabled! 
+14:56:59.578 DEBUG Skipping slash command botinvite. Disabled! 
+14:56:59.777 DEBUG Skipping slash command botstats. Disabled! 
+14:56:59.783 DEBUG Skipping slash command channelinfo. Disabled! 
+14:56:59.790 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:56:59.795 DEBUG Skipping slash command guildinfo. Disabled! 
+14:56:59.796 DEBUG Skipping slash command uptime. Disabled! 
+14:56:59.801 DEBUG Skipping slash command userinfo. Disabled! 
+14:56:59.834 DEBUG Skipping command bot. Disabled! 
+14:56:59.844 DEBUG Skipping command info. Disabled! 
+14:56:59.904 DEBUG Skipping slash command deafen. Disabled! 
+14:56:59.915 DEBUG Skipping slash command disconnect. Disabled! 
+14:56:59.925 DEBUG Skipping slash command move. Disabled! 
+14:56:59.932 DEBUG Skipping slash command purge. Disabled! 
+14:56:59.936 DEBUG Skipping slash command purgeattach. Disabled! 
+14:56:59.940 DEBUG Skipping slash command purgebots. Disabled! 
+14:56:59.944 DEBUG Skipping slash command purgelinks. Disabled! 
+14:56:59.947 DEBUG Skipping slash command purgetoken. Disabled! 
+14:56:59.950 DEBUG Skipping slash command purgeuser. Disabled! 
+14:56:59.960 DEBUG Skipping command purge. Disabled! 
+14:56:59.964 DEBUG Skipping command voice. Disabled! 
+14:56:59.972 DEBUG Skipping slash command undeafen. Disabled! 
+14:56:59.978 DEBUG Skipping slash command vmute. Disabled! 
+14:56:59.981 DEBUG Skipping slash command vunmute. Disabled! 
+14:57:00.091 INFO  Loaded 96 commands 
+14:57:00.092 INFO  Loaded 80 slash commands 
+14:57:00.094 INFO  Loading contexts... 
+14:57:00.104 INFO  Loaded 2 USER contexts 
+14:57:00.111 INFO  Loaded 0 MESSAGE contexts 
+14:57:00.122 INFO  Loading events... 
+14:57:00.301 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:57:00.311 INFO  Validating config.js and environment variables 
+14:57:00.313 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:57:00.314 WARN  config.js: SUPPORT_SERVER is not provided 
+14:57:00.315 INFO  Connecting to MongoDb... 
+14:57:54.181 INFO  Loading commands... 
+14:57:54.344 DEBUG Skipping slash command avatar. Disabled! 
+14:57:54.348 DEBUG Skipping slash command botinvite. Disabled! 
+14:57:54.465 DEBUG Skipping slash command botstats. Disabled! 
+14:57:54.468 DEBUG Skipping slash command channelinfo. Disabled! 
+14:57:54.471 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:57:54.477 DEBUG Skipping slash command guildinfo. Disabled! 
+14:57:54.478 DEBUG Skipping slash command uptime. Disabled! 
+14:57:54.481 DEBUG Skipping slash command userinfo. Disabled! 
+14:57:54.491 DEBUG Skipping command bot. Disabled! 
+14:57:54.494 DEBUG Skipping command info. Disabled! 
+14:57:54.525 DEBUG Skipping slash command deafen. Disabled! 
+14:57:54.528 DEBUG Skipping slash command disconnect. Disabled! 
+14:57:54.533 DEBUG Skipping slash command move. Disabled! 
+14:57:54.537 DEBUG Skipping slash command purge. Disabled! 
+14:57:54.539 DEBUG Skipping slash command purgeattach. Disabled! 
+14:57:54.541 DEBUG Skipping slash command purgebots. Disabled! 
+14:57:54.543 DEBUG Skipping slash command purgelinks. Disabled! 
+14:57:54.545 DEBUG Skipping slash command purgetoken. Disabled! 
+14:57:54.548 DEBUG Skipping slash command purgeuser. Disabled! 
+14:57:54.554 DEBUG Skipping command purge. Disabled! 
+14:57:54.556 DEBUG Skipping command voice. Disabled! 
+14:57:54.562 DEBUG Skipping slash command undeafen. Disabled! 
+14:57:54.565 DEBUG Skipping slash command vmute. Disabled! 
+14:57:54.567 DEBUG Skipping slash command vunmute. Disabled! 
+14:57:54.649 INFO  Loaded 96 commands 
+14:57:54.650 INFO  Loaded 80 slash commands 
+14:57:54.651 INFO  Loading contexts... 
+14:57:54.658 INFO  Loaded 2 USER contexts 
+14:57:54.659 INFO  Loaded 0 MESSAGE contexts 
+14:57:54.660 INFO  Loading events... 
+14:57:54.824 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:57:54.827 INFO  Validating config.js and environment variables 
+14:57:54.828 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:57:54.829 WARN  config.js: SUPPORT_SERVER is not provided 
+14:57:54.831 INFO  Connecting to MongoDb... 
+15:01:16.089 INFO  Loading commands... 
+15:01:16.469 DEBUG Skipping slash command avatar. Disabled! 
+15:01:16.477 DEBUG Skipping slash command botinvite. Disabled! 
+15:01:16.708 DEBUG Skipping slash command botstats. Disabled! 
+15:01:16.714 DEBUG Skipping slash command channelinfo. Disabled! 
+15:01:16.721 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:01:16.728 DEBUG Skipping slash command guildinfo. Disabled! 
+15:01:16.730 DEBUG Skipping slash command uptime. Disabled! 
+15:01:16.735 DEBUG Skipping slash command userinfo. Disabled! 
+15:01:16.749 DEBUG Skipping command bot. Disabled! 
+15:01:16.754 DEBUG Skipping command info. Disabled! 
+15:01:16.798 DEBUG Skipping slash command deafen. Disabled! 
+15:01:16.804 DEBUG Skipping slash command disconnect. Disabled! 
+15:01:16.811 DEBUG Skipping slash command move. Disabled! 
+15:01:16.816 DEBUG Skipping slash command purge. Disabled! 
+15:01:16.819 DEBUG Skipping slash command purgeattach. Disabled! 
+15:01:16.821 DEBUG Skipping slash command purgebots. Disabled! 
+15:01:16.824 DEBUG Skipping slash command purgelinks. Disabled! 
+15:01:16.826 DEBUG Skipping slash command purgetoken. Disabled! 
+15:01:16.832 DEBUG Skipping slash command purgeuser. Disabled! 
+15:01:16.842 DEBUG Skipping command purge. Disabled! 
+15:01:16.846 DEBUG Skipping command voice. Disabled! 
+15:01:16.856 DEBUG Skipping slash command undeafen. Disabled! 
+15:01:16.861 DEBUG Skipping slash command vmute. Disabled! 
+15:01:16.864 DEBUG Skipping slash command vunmute. Disabled! 
+15:01:16.983 INFO  Loaded 96 commands 
+15:01:16.984 INFO  Loaded 80 slash commands 
+15:01:16.986 INFO  Loading contexts... 
+15:01:16.999 INFO  Loaded 2 USER contexts 
+15:01:17.002 INFO  Loaded 0 MESSAGE contexts 
+15:01:17.004 INFO  Loading events... 
+15:01:17.228 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:01:17.231 INFO  Validating config.js and environment variables 
+15:01:17.233 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:01:17.237 WARN  config.js: SUPPORT_SERVER is not provided 
+15:01:17.240 INFO  Connecting to MongoDb... 
+15:01:36.370 INFO  Loading commands... 
+15:01:36.515 DEBUG Skipping slash command avatar. Disabled! 
+15:01:36.518 DEBUG Skipping slash command botinvite. Disabled! 
+15:01:36.615 DEBUG Skipping slash command botstats. Disabled! 
+15:01:36.618 DEBUG Skipping slash command channelinfo. Disabled! 
+15:01:36.621 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:01:36.624 DEBUG Skipping slash command guildinfo. Disabled! 
+15:01:36.625 DEBUG Skipping slash command uptime. Disabled! 
+15:01:36.628 DEBUG Skipping slash command userinfo. Disabled! 
+15:01:36.635 DEBUG Skipping command bot. Disabled! 
+15:01:36.638 DEBUG Skipping command info. Disabled! 
+15:01:36.661 DEBUG Skipping slash command deafen. Disabled! 
+15:01:36.663 DEBUG Skipping slash command disconnect. Disabled! 
+15:01:36.668 DEBUG Skipping slash command move. Disabled! 
+15:01:36.670 DEBUG Skipping slash command purge. Disabled! 
+15:01:36.672 DEBUG Skipping slash command purgeattach. Disabled! 
+15:01:36.674 DEBUG Skipping slash command purgebots. Disabled! 
+15:01:36.676 DEBUG Skipping slash command purgelinks. Disabled! 
+15:01:36.677 DEBUG Skipping slash command purgetoken. Disabled! 
+15:01:36.679 DEBUG Skipping slash command purgeuser. Disabled! 
+15:01:36.684 DEBUG Skipping command purge. Disabled! 
+15:01:36.686 DEBUG Skipping command voice. Disabled! 
+15:01:36.691 DEBUG Skipping slash command undeafen. Disabled! 
+15:01:36.694 DEBUG Skipping slash command vmute. Disabled! 
+15:01:36.696 DEBUG Skipping slash command vunmute. Disabled! 
+15:01:36.764 INFO  Loaded 96 commands 
+15:01:36.765 INFO  Loaded 80 slash commands 
+15:01:36.766 INFO  Loading contexts... 
+15:01:36.774 INFO  Loaded 2 USER contexts 
+15:01:36.777 INFO  Loaded 0 MESSAGE contexts 
+15:01:36.778 INFO  Loading events... 
+15:01:36.927 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:01:36.928 INFO  Validating config.js and environment variables 
+15:01:36.929 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:01:36.929 WARN  config.js: SUPPORT_SERVER is not provided 
+15:01:36.930 INFO  Connecting to MongoDb... 
+15:01:37.575 INFO  Mongoose: Database connection established 
+15:01:38.034 INFO  VersionCheck: Your discord bot is up to date 
+15:01:38.034 INFO  Launching dashboard 
+15:01:38.566 INFO  Dashboard is listening on port 8080 
+15:01:39.390 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:02:10.558 INFO  Loading commands... 
+15:02:10.698 DEBUG Skipping slash command avatar. Disabled! 
+15:02:10.701 DEBUG Skipping slash command botinvite. Disabled! 
+15:02:10.798 DEBUG Skipping slash command botstats. Disabled! 
+15:02:10.801 DEBUG Skipping slash command channelinfo. Disabled! 
+15:02:10.804 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:02:10.808 DEBUG Skipping slash command guildinfo. Disabled! 
+15:02:10.809 DEBUG Skipping slash command uptime. Disabled! 
+15:02:10.813 DEBUG Skipping slash command userinfo. Disabled! 
+15:02:10.820 DEBUG Skipping command bot. Disabled! 
+15:02:10.823 DEBUG Skipping command info. Disabled! 
+15:02:10.848 DEBUG Skipping slash command deafen. Disabled! 
+15:02:10.850 DEBUG Skipping slash command disconnect. Disabled! 
+15:02:10.855 DEBUG Skipping slash command move. Disabled! 
+15:02:10.858 DEBUG Skipping slash command purge. Disabled! 
+15:02:10.859 DEBUG Skipping slash command purgeattach. Disabled! 
+15:02:10.861 DEBUG Skipping slash command purgebots. Disabled! 
+15:02:10.862 DEBUG Skipping slash command purgelinks. Disabled! 
+15:02:10.864 DEBUG Skipping slash command purgetoken. Disabled! 
+15:02:10.866 DEBUG Skipping slash command purgeuser. Disabled! 
+15:02:10.870 DEBUG Skipping command purge. Disabled! 
+15:02:10.873 DEBUG Skipping command voice. Disabled! 
+15:02:10.878 DEBUG Skipping slash command undeafen. Disabled! 
+15:02:10.881 DEBUG Skipping slash command vmute. Disabled! 
+15:02:10.883 DEBUG Skipping slash command vunmute. Disabled! 
+15:02:10.948 INFO  Loaded 96 commands 
+15:02:10.949 INFO  Loaded 80 slash commands 
+15:02:10.950 INFO  Loading contexts... 
+15:02:10.956 INFO  Loaded 2 USER contexts 
+15:02:10.957 INFO  Loaded 0 MESSAGE contexts 
+15:02:10.958 INFO  Loading events... 
+15:02:11.090 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:02:11.093 INFO  Validating config.js and environment variables 
+15:02:11.095 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:02:11.097 WARN  config.js: SUPPORT_SERVER is not provided 
+15:02:11.098 INFO  Connecting to MongoDb... 
+15:02:11.873 INFO  Mongoose: Database connection established 
+15:02:12.236 INFO  VersionCheck: Your discord bot is up to date 
+15:02:12.236 INFO  Launching dashboard 
+15:02:12.607 INFO  Dashboard is listening on port 8080 
+15:02:13.683 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:02:20.822 ERROR Cannot read properties of null (reading 'id')
+{}
+TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:323:13)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\app.js:36:7 
+15:03:10.100 INFO  Loading commands... 
+15:03:10.284 DEBUG Skipping slash command avatar. Disabled! 
+15:03:10.288 DEBUG Skipping slash command botinvite. Disabled! 
+15:03:10.427 DEBUG Skipping slash command botstats. Disabled! 
+15:03:10.432 DEBUG Skipping slash command channelinfo. Disabled! 
+15:03:10.436 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:03:10.444 DEBUG Skipping slash command guildinfo. Disabled! 
+15:03:10.447 DEBUG Skipping slash command uptime. Disabled! 
+15:03:10.450 DEBUG Skipping slash command userinfo. Disabled! 
+15:03:10.458 DEBUG Skipping command bot. Disabled! 
+15:03:10.463 DEBUG Skipping command info. Disabled! 
+15:03:10.495 DEBUG Skipping slash command deafen. Disabled! 
+15:03:10.498 DEBUG Skipping slash command disconnect. Disabled! 
+15:03:10.502 DEBUG Skipping slash command move. Disabled! 
+15:03:10.506 DEBUG Skipping slash command purge. Disabled! 
+15:03:10.512 DEBUG Skipping slash command purgeattach. Disabled! 
+15:03:10.515 DEBUG Skipping slash command purgebots. Disabled! 
+15:03:10.518 DEBUG Skipping slash command purgelinks. Disabled! 
+15:03:10.522 DEBUG Skipping slash command purgetoken. Disabled! 
+15:03:10.527 DEBUG Skipping slash command purgeuser. Disabled! 
+15:03:10.545 DEBUG Skipping command purge. Disabled! 
+15:03:10.548 DEBUG Skipping command voice. Disabled! 
+15:03:10.553 DEBUG Skipping slash command undeafen. Disabled! 
+15:03:10.556 DEBUG Skipping slash command vmute. Disabled! 
+15:03:10.558 DEBUG Skipping slash command vunmute. Disabled! 
+15:03:10.820 INFO  Loaded 96 commands 
+15:03:10.822 INFO  Loaded 80 slash commands 
+15:03:10.828 INFO  Loading contexts... 
+15:03:10.854 INFO  Loaded 2 USER contexts 
+15:03:10.855 INFO  Loaded 0 MESSAGE contexts 
+15:03:10.858 INFO  Loading events... 
+15:03:11.110 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:03:11.112 INFO  Validating config.js and environment variables 
+15:03:11.114 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:03:11.114 WARN  config.js: SUPPORT_SERVER is not provided 
+15:03:11.116 INFO  Connecting to MongoDb... 
+15:03:11.994 INFO  Mongoose: Database connection established 
+15:03:12.426 INFO  VersionCheck: Your discord bot is up to date 
+15:03:12.427 INFO  Launching dashboard 
+15:03:12.869 INFO  Dashboard is listening on port 8080 
+15:03:14.204 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:03:15.517 ERROR Cannot read properties of null (reading 'id')
+{}
+TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:323:13)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\app.js:36:7 
+15:05:54.631 INFO  Loading commands... 
+15:05:54.775 DEBUG Skipping slash command avatar. Disabled! 
+15:05:54.778 DEBUG Skipping slash command botinvite. Disabled! 
+15:05:54.883 DEBUG Skipping slash command botstats. Disabled! 
+15:05:54.886 DEBUG Skipping slash command channelinfo. Disabled! 
+15:05:54.889 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:05:54.893 DEBUG Skipping slash command guildinfo. Disabled! 
+15:05:54.894 DEBUG Skipping slash command uptime. Disabled! 
+15:05:54.897 DEBUG Skipping slash command userinfo. Disabled! 
+15:05:54.911 DEBUG Skipping command bot. Disabled! 
+15:05:54.915 DEBUG Skipping command info. Disabled! 
+15:05:54.957 DEBUG Skipping slash command deafen. Disabled! 
+15:05:54.962 DEBUG Skipping slash command disconnect. Disabled! 
+15:05:54.969 DEBUG Skipping slash command move. Disabled! 
+15:05:54.977 DEBUG Skipping slash command purge. Disabled! 
+15:05:54.979 DEBUG Skipping slash command purgeattach. Disabled! 
+15:05:54.983 DEBUG Skipping slash command purgebots. Disabled! 
+15:05:54.988 DEBUG Skipping slash command purgelinks. Disabled! 
+15:05:54.993 DEBUG Skipping slash command purgetoken. Disabled! 
+15:05:54.998 DEBUG Skipping slash command purgeuser. Disabled! 
+15:05:55.014 DEBUG Skipping command purge. Disabled! 
+15:05:55.018 DEBUG Skipping command voice. Disabled! 
+15:05:55.031 DEBUG Skipping slash command undeafen. Disabled! 
+15:05:55.044 DEBUG Skipping slash command vmute. Disabled! 
+15:05:55.047 DEBUG Skipping slash command vunmute. Disabled! 
+15:05:55.166 INFO  Loaded 96 commands 
+15:05:55.167 INFO  Loaded 80 slash commands 
+15:05:55.168 INFO  Loading contexts... 
+15:05:55.177 INFO  Loaded 2 USER contexts 
+15:05:55.178 INFO  Loaded 0 MESSAGE contexts 
+15:05:55.187 INFO  Loading events... 
+15:05:55.467 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:05:55.479 INFO  Validating config.js and environment variables 
+15:05:55.480 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:05:55.482 INFO  Connecting to MongoDb... 
+15:05:56.491 INFO  Mongoose: Database connection established 
+15:05:56.914 INFO  VersionCheck: Your discord bot is up to date 
+15:05:56.915 INFO  Launching dashboard 
+15:05:57.307 INFO  Dashboard is listening on port 8080 
+15:05:58.169 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:06:03.096 ERROR Cannot read properties of null (reading 'id')
+{}
+TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:323:13)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\app.js:36:7 
+15:06:15.629 ERROR Cannot read properties of null (reading 'id')
+{}
+TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:323:13)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\app.js:36:7 
+15:07:13.755 INFO  Loading commands... 
+15:07:13.898 DEBUG Skipping slash command avatar. Disabled! 
+15:07:13.901 DEBUG Skipping slash command botinvite. Disabled! 
+15:07:14.010 DEBUG Skipping slash command botstats. Disabled! 
+15:07:14.013 DEBUG Skipping slash command channelinfo. Disabled! 
+15:07:14.016 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:07:14.019 DEBUG Skipping slash command guildinfo. Disabled! 
+15:07:14.021 DEBUG Skipping slash command uptime. Disabled! 
+15:07:14.024 DEBUG Skipping slash command userinfo. Disabled! 
+15:07:14.031 DEBUG Skipping command bot. Disabled! 
+15:07:14.034 DEBUG Skipping command info. Disabled! 
+15:07:14.060 DEBUG Skipping slash command deafen. Disabled! 
+15:07:14.064 DEBUG Skipping slash command disconnect. Disabled! 
+15:07:14.069 DEBUG Skipping slash command move. Disabled! 
+15:07:14.079 DEBUG Skipping slash command purge. Disabled! 
+15:07:14.083 DEBUG Skipping slash command purgeattach. Disabled! 
+15:07:14.087 DEBUG Skipping slash command purgebots. Disabled! 
+15:07:14.091 DEBUG Skipping slash command purgelinks. Disabled! 
+15:07:14.095 DEBUG Skipping slash command purgetoken. Disabled! 
+15:07:14.098 DEBUG Skipping slash command purgeuser. Disabled! 
+15:07:14.110 DEBUG Skipping command purge. Disabled! 
+15:07:14.113 DEBUG Skipping command voice. Disabled! 
+15:07:14.119 DEBUG Skipping slash command undeafen. Disabled! 
+15:07:14.123 DEBUG Skipping slash command vmute. Disabled! 
+15:07:14.125 DEBUG Skipping slash command vunmute. Disabled! 
+15:07:14.243 INFO  Loaded 96 commands 
+15:07:14.244 INFO  Loaded 80 slash commands 
+15:07:14.245 INFO  Loading contexts... 
+15:07:14.255 INFO  Loaded 2 USER contexts 
+15:07:14.256 INFO  Loaded 0 MESSAGE contexts 
+15:07:14.257 INFO  Loading events... 
+15:07:14.416 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:07:14.417 INFO  Validating config.js and environment variables 
+15:07:14.418 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:07:14.419 INFO  Connecting to MongoDb... 
+15:07:15.496 INFO  Mongoose: Database connection established 
+15:07:15.909 INFO  VersionCheck: Your discord bot is up to date 
+15:07:17.007 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:10:09.508 INFO  Loading commands... 
+15:10:09.688 DEBUG Skipping slash command avatar. Disabled! 
+15:10:09.691 DEBUG Skipping slash command botinvite. Disabled! 
+15:10:09.785 DEBUG Skipping slash command botstats. Disabled! 
+15:10:09.787 DEBUG Skipping slash command channelinfo. Disabled! 
+15:10:09.790 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:10:09.794 DEBUG Skipping slash command guildinfo. Disabled! 
+15:10:09.795 DEBUG Skipping slash command uptime. Disabled! 
+15:10:09.798 DEBUG Skipping slash command userinfo. Disabled! 
+15:10:09.806 DEBUG Skipping command bot. Disabled! 
+15:10:09.808 DEBUG Skipping command info. Disabled! 
+15:10:09.831 DEBUG Skipping slash command deafen. Disabled! 
+15:10:09.834 DEBUG Skipping slash command disconnect. Disabled! 
+15:10:09.838 DEBUG Skipping slash command move. Disabled! 
+15:10:09.842 DEBUG Skipping slash command purge. Disabled! 
+15:10:09.843 DEBUG Skipping slash command purgeattach. Disabled! 
+15:10:09.845 DEBUG Skipping slash command purgebots. Disabled! 
+15:10:09.846 DEBUG Skipping slash command purgelinks. Disabled! 
+15:10:09.848 DEBUG Skipping slash command purgetoken. Disabled! 
+15:10:09.849 DEBUG Skipping slash command purgeuser. Disabled! 
+15:10:09.854 DEBUG Skipping command purge. Disabled! 
+15:10:09.856 DEBUG Skipping command voice. Disabled! 
+15:10:09.860 DEBUG Skipping slash command undeafen. Disabled! 
+15:10:09.863 DEBUG Skipping slash command vmute. Disabled! 
+15:10:09.865 DEBUG Skipping slash command vunmute. Disabled! 
+15:10:09.928 INFO  Loaded 96 commands 
+15:10:09.929 INFO  Loaded 80 slash commands 
+15:10:09.931 INFO  Loading contexts... 
+15:10:09.936 INFO  Loaded 2 USER contexts 
+15:10:09.937 INFO  Loaded 0 MESSAGE contexts 
+15:10:09.938 INFO  Loading events... 
+15:10:10.101 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:10:10.102 INFO  Validating config.js and environment variables 
+15:10:10.104 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:10:10.107 INFO  Connecting to MongoDb... 
+15:10:11.246 INFO  Mongoose: Database connection established 
+15:10:11.703 INFO  VersionCheck: Your discord bot is up to date 
+15:10:12.618 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:11:28.037 INFO  Loading commands... 
+15:11:28.213 DEBUG Skipping slash command avatar. Disabled! 
+15:11:28.217 DEBUG Skipping slash command botinvite. Disabled! 
+15:11:28.328 DEBUG Skipping slash command botstats. Disabled! 
+15:11:28.331 DEBUG Skipping slash command channelinfo. Disabled! 
+15:11:28.334 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:11:28.337 DEBUG Skipping slash command guildinfo. Disabled! 
+15:11:28.339 DEBUG Skipping slash command uptime. Disabled! 
+15:11:28.342 DEBUG Skipping slash command userinfo. Disabled! 
+15:11:28.350 DEBUG Skipping command bot. Disabled! 
+15:11:28.354 DEBUG Skipping command info. Disabled! 
+15:11:28.380 DEBUG Skipping slash command deafen. Disabled! 
+15:11:28.383 DEBUG Skipping slash command disconnect. Disabled! 
+15:11:28.388 DEBUG Skipping slash command move. Disabled! 
+15:11:28.390 DEBUG Skipping slash command purge. Disabled! 
+15:11:28.392 DEBUG Skipping slash command purgeattach. Disabled! 
+15:11:28.394 DEBUG Skipping slash command purgebots. Disabled! 
+15:11:28.396 DEBUG Skipping slash command purgelinks. Disabled! 
+15:11:28.397 DEBUG Skipping slash command purgetoken. Disabled! 
+15:11:28.399 DEBUG Skipping slash command purgeuser. Disabled! 
+15:11:28.404 DEBUG Skipping command purge. Disabled! 
+15:11:28.407 DEBUG Skipping command voice. Disabled! 
+15:11:28.411 DEBUG Skipping slash command undeafen. Disabled! 
+15:11:28.414 DEBUG Skipping slash command vmute. Disabled! 
+15:11:28.415 DEBUG Skipping slash command vunmute. Disabled! 
+15:11:28.490 INFO  Loaded 96 commands 
+15:11:28.492 INFO  Loaded 80 slash commands 
+15:11:28.493 INFO  Loading contexts... 
+15:11:28.502 INFO  Loaded 2 USER contexts 
+15:11:28.504 INFO  Loaded 0 MESSAGE contexts 
+15:11:28.507 INFO  Loading events... 
+15:11:28.690 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:11:28.692 INFO  Validating config.js and environment variables 
+15:11:28.692 INFO  Connecting to MongoDb... 
+15:11:28.961 ERROR Invalid Spotify client.
+{}
+Error: Invalid Spotify client.
+    at Spotify.renewToken (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js-spotify\dist\plugin.js:162:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Spotify.renew (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js-spotify\dist\plugin.js:168:27) 
+15:11:29.518 INFO  Mongoose: Database connection established 
+15:11:30.006 INFO  VersionCheck: Your discord bot is up to date 
+15:11:31.158 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:14:34.066 INFO  Loading commands... 
+15:14:34.268 DEBUG Skipping slash command avatar. Disabled! 
+15:14:34.273 DEBUG Skipping slash command botinvite. Disabled! 
+15:14:34.397 DEBUG Skipping slash command botstats. Disabled! 
+15:14:34.401 DEBUG Skipping slash command channelinfo. Disabled! 
+15:14:34.404 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:14:34.408 DEBUG Skipping slash command guildinfo. Disabled! 
+15:14:34.410 DEBUG Skipping slash command uptime. Disabled! 
+15:14:34.413 DEBUG Skipping slash command userinfo. Disabled! 
+15:14:34.422 DEBUG Skipping command bot. Disabled! 
+15:14:34.425 DEBUG Skipping command info. Disabled! 
+15:14:34.454 DEBUG Skipping slash command deafen. Disabled! 
+15:14:34.457 DEBUG Skipping slash command disconnect. Disabled! 
+15:14:34.462 DEBUG Skipping slash command move. Disabled! 
+15:14:34.467 DEBUG Skipping slash command purge. Disabled! 
+15:14:34.469 DEBUG Skipping slash command purgeattach. Disabled! 
+15:14:34.471 DEBUG Skipping slash command purgebots. Disabled! 
+15:14:34.473 DEBUG Skipping slash command purgelinks. Disabled! 
+15:14:34.475 DEBUG Skipping slash command purgetoken. Disabled! 
+15:14:34.476 DEBUG Skipping slash command purgeuser. Disabled! 
+15:14:34.484 DEBUG Skipping command purge. Disabled! 
+15:14:34.487 DEBUG Skipping command voice. Disabled! 
+15:14:34.492 DEBUG Skipping slash command undeafen. Disabled! 
+15:14:34.496 DEBUG Skipping slash command vmute. Disabled! 
+15:14:34.497 DEBUG Skipping slash command vunmute. Disabled! 
+15:14:34.576 INFO  Loaded 96 commands 
+15:14:34.577 INFO  Loaded 80 slash commands 
+15:14:34.578 INFO  Loading contexts... 
+15:14:34.584 INFO  Loaded 2 USER contexts 
+15:14:34.584 INFO  Loaded 0 MESSAGE contexts 
+15:14:34.585 INFO  Loading events... 
+15:14:34.737 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:14:34.739 INFO  Validating config.js and environment variables 
+15:14:34.740 INFO  Connecting to MongoDb... 
+15:14:34.988 ERROR Invalid Spotify client.
+{}
+Error: Invalid Spotify client.
+    at Spotify.renewToken (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js-spotify\dist\plugin.js:162:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Spotify.renew (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js-spotify\dist\plugin.js:168:27) 
+15:14:36.129 INFO  Mongoose: Database connection established 
+15:14:36.556 INFO  VersionCheck: Your discord bot is up to date 
+15:14:37.608 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:16:07.480 INFO  Loading commands... 
+15:16:07.635 DEBUG Skipping slash command avatar. Disabled! 
+15:16:07.638 DEBUG Skipping slash command botinvite. Disabled! 
+15:16:07.748 DEBUG Skipping slash command botstats. Disabled! 
+15:16:07.752 DEBUG Skipping slash command channelinfo. Disabled! 
+15:16:07.756 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:16:07.761 DEBUG Skipping slash command guildinfo. Disabled! 
+15:16:07.763 DEBUG Skipping slash command uptime. Disabled! 
+15:16:07.766 DEBUG Skipping slash command userinfo. Disabled! 
+15:16:07.774 DEBUG Skipping command bot. Disabled! 
+15:16:07.777 DEBUG Skipping command info. Disabled! 
+15:16:07.799 DEBUG Skipping slash command deafen. Disabled! 
+15:16:07.802 DEBUG Skipping slash command disconnect. Disabled! 
+15:16:07.806 DEBUG Skipping slash command move. Disabled! 
+15:16:07.809 DEBUG Skipping slash command purge. Disabled! 
+15:16:07.811 DEBUG Skipping slash command purgeattach. Disabled! 
+15:16:07.812 DEBUG Skipping slash command purgebots. Disabled! 
+15:16:07.814 DEBUG Skipping slash command purgelinks. Disabled! 
+15:16:07.816 DEBUG Skipping slash command purgetoken. Disabled! 
+15:16:07.818 DEBUG Skipping slash command purgeuser. Disabled! 
+15:16:07.826 DEBUG Skipping command purge. Disabled! 
+15:16:07.829 DEBUG Skipping command voice. Disabled! 
+15:16:07.839 DEBUG Skipping slash command undeafen. Disabled! 
+15:16:07.844 DEBUG Skipping slash command vmute. Disabled! 
+15:16:07.846 DEBUG Skipping slash command vunmute. Disabled! 
+15:16:07.915 INFO  Loaded 96 commands 
+15:16:07.916 INFO  Loaded 80 slash commands 
+15:16:07.917 INFO  Loading contexts... 
+15:16:07.923 INFO  Loaded 2 USER contexts 
+15:16:07.924 INFO  Loaded 0 MESSAGE contexts 
+15:16:07.925 INFO  Loading events... 
+15:16:08.030 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:16:08.032 INFO  Validating config.js and environment variables 
+15:16:08.033 INFO  Connecting to MongoDb... 
+15:16:09.046 INFO  Mongoose: Database connection established 
+15:16:09.527 INFO  VersionCheck: Your discord bot is up to date 
+15:16:10.581 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\bot.js:42:3 
+15:17:20.875 INFO  Loading commands... 
+15:17:21.048 DEBUG Skipping slash command avatar. Disabled! 
+15:17:21.051 DEBUG Skipping slash command botinvite. Disabled! 
+15:17:21.151 DEBUG Skipping slash command botstats. Disabled! 
+15:17:21.154 DEBUG Skipping slash command channelinfo. Disabled! 
+15:17:21.156 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:17:21.160 DEBUG Skipping slash command guildinfo. Disabled! 
+15:17:21.162 DEBUG Skipping slash command uptime. Disabled! 
+15:17:21.165 DEBUG Skipping slash command userinfo. Disabled! 
+15:17:21.172 DEBUG Skipping command bot. Disabled! 
+15:17:21.176 DEBUG Skipping command info. Disabled! 
+15:17:21.268 DEBUG Skipping slash command deafen. Disabled! 
+15:17:21.272 DEBUG Skipping slash command disconnect. Disabled! 
+15:17:21.280 DEBUG Skipping slash command move. Disabled! 
+15:17:21.286 DEBUG Skipping slash command purge. Disabled! 
+15:17:21.288 DEBUG Skipping slash command purgeattach. Disabled! 
+15:17:21.290 DEBUG Skipping slash command purgebots. Disabled! 
+15:17:21.301 DEBUG Skipping slash command purgelinks. Disabled! 
+15:17:21.304 DEBUG Skipping slash command purgetoken. Disabled! 
+15:17:21.306 DEBUG Skipping slash command purgeuser. Disabled! 
+15:17:21.314 DEBUG Skipping command purge. Disabled! 
+15:17:21.319 DEBUG Skipping command voice. Disabled! 
+15:17:21.325 DEBUG Skipping slash command undeafen. Disabled! 
+15:17:21.332 DEBUG Skipping slash command vmute. Disabled! 
+15:17:21.335 DEBUG Skipping slash command vunmute. Disabled! 
+15:17:21.515 INFO  Loaded 96 commands 
+15:17:21.516 INFO  Loaded 80 slash commands 
+15:17:21.517 INFO  Loading contexts... 
+15:17:21.527 INFO  Loaded 2 USER contexts 
+15:17:21.529 INFO  Loaded 0 MESSAGE contexts 
+15:17:21.530 INFO  Loading events... 
+15:17:21.660 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:17:21.663 INFO  Validating config.js and environment variables 
+15:17:21.664 INFO  Connecting to MongoDb... 
+15:17:24.915 INFO  Mongoose: Database connection established 
+15:17:25.318 INFO  VersionCheck: Your discord bot is up to date 
+15:17:26.294 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+15:17:26.295 INFO  Initializing music manager 
+15:17:26.306 INFO  Initializing giveaways manager 
+15:17:26.391 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:17:26.814 INFO  Node "USA Link" connected 
+15:17:31.406 WARN  Node "German Link" is reconnecting 
+15:17:31.430 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:17:36.432 WARN  Node "German Link" is reconnecting 
+15:17:36.440 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:17:41.454 WARN  Node "German Link" is reconnecting 
+15:17:41.464 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:17:46.474 WARN  Node "German Link" is reconnecting 
+15:17:46.487 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:17:51.497 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+15:20:33.731 INFO  Loading commands... 
+15:20:35.253 DEBUG Skipping slash command avatar. Disabled! 
+15:20:35.266 DEBUG Skipping slash command botinvite. Disabled! 
+15:20:35.559 DEBUG Skipping slash command botstats. Disabled! 
+15:20:35.565 DEBUG Skipping slash command channelinfo. Disabled! 
+15:20:35.575 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:20:35.582 DEBUG Skipping slash command guildinfo. Disabled! 
+15:20:35.586 DEBUG Skipping slash command uptime. Disabled! 
+15:20:35.595 DEBUG Skipping slash command userinfo. Disabled! 
+15:20:35.634 DEBUG Skipping command bot. Disabled! 
+15:20:35.645 DEBUG Skipping command info. Disabled! 
+15:20:35.696 DEBUG Skipping slash command deafen. Disabled! 
+15:20:35.698 DEBUG Skipping slash command disconnect. Disabled! 
+15:20:35.705 DEBUG Skipping slash command move. Disabled! 
+15:20:35.711 DEBUG Skipping slash command purge. Disabled! 
+15:20:35.713 DEBUG Skipping slash command purgeattach. Disabled! 
+15:20:35.716 DEBUG Skipping slash command purgebots. Disabled! 
+15:20:35.718 DEBUG Skipping slash command purgelinks. Disabled! 
+15:20:35.722 DEBUG Skipping slash command purgetoken. Disabled! 
+15:20:35.724 DEBUG Skipping slash command purgeuser. Disabled! 
+15:20:35.733 DEBUG Skipping command purge. Disabled! 
+15:20:35.735 DEBUG Skipping command voice. Disabled! 
+15:20:35.744 DEBUG Skipping slash command undeafen. Disabled! 
+15:20:35.747 DEBUG Skipping slash command vmute. Disabled! 
+15:20:35.749 DEBUG Skipping slash command vunmute. Disabled! 
+15:20:35.847 INFO  Loaded 96 commands 
+15:20:35.847 INFO  Loaded 80 slash commands 
+15:20:35.850 INFO  Loading contexts... 
+15:20:35.858 INFO  Loaded 2 USER contexts 
+15:20:35.859 INFO  Loaded 0 MESSAGE contexts 
+15:20:35.860 INFO  Loading events... 
+15:20:36.030 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:20:36.031 INFO  Validating config.js and environment variables 
+15:20:36.032 INFO  Connecting to MongoDb... 
+15:20:37.616 INFO  Mongoose: Database connection established 
+15:20:38.147 INFO  VersionCheck: Your discord bot is up to date 
+15:20:38.149 INFO  Launching dashboard 
+15:20:38.705 INFO  Dashboard is listening on port 8080 
+15:20:38.801 ERROR Cannot read properties of null (reading 'id')
+{}
+TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\routes\discord.js:12:25
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:323:13)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:341:12)
+    at next (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\dashboard\app.js:36:7 
+15:20:39.832 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+15:20:39.833 INFO  Initializing music manager 
+15:20:39.837 INFO  Initializing giveaways manager 
+15:20:39.871 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:20:40.255 INFO  Node "USA Link" connected 
+15:20:44.883 WARN  Node "German Link" is reconnecting 
+15:20:44.893 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:20:49.910 WARN  Node "German Link" is reconnecting 
+15:20:49.924 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:20:54.931 WARN  Node "German Link" is reconnecting 
+15:20:54.944 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:21:00.009 WARN  Node "German Link" is reconnecting 
+15:21:00.130 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:21:05.143 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+15:56:32.081 INFO  Loading commands... 
+15:56:32.277 DEBUG Skipping slash command avatar. Disabled! 
+15:56:32.283 DEBUG Skipping slash command botinvite. Disabled! 
+15:56:32.401 DEBUG Skipping slash command botstats. Disabled! 
+15:56:32.405 DEBUG Skipping slash command channelinfo. Disabled! 
+15:56:32.408 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:56:32.414 DEBUG Skipping slash command guildinfo. Disabled! 
+15:56:32.417 DEBUG Skipping slash command uptime. Disabled! 
+15:56:32.421 DEBUG Skipping slash command userinfo. Disabled! 
+15:56:32.431 DEBUG Skipping command bot. Disabled! 
+15:56:32.434 DEBUG Skipping command info. Disabled! 
+15:56:32.470 DEBUG Skipping slash command deafen. Disabled! 
+15:56:32.474 DEBUG Skipping slash command disconnect. Disabled! 
+15:56:32.480 DEBUG Skipping slash command move. Disabled! 
+15:56:32.484 DEBUG Skipping slash command purge. Disabled! 
+15:56:32.485 DEBUG Skipping slash command purgeattach. Disabled! 
+15:56:32.487 DEBUG Skipping slash command purgebots. Disabled! 
+15:56:32.490 DEBUG Skipping slash command purgelinks. Disabled! 
+15:56:32.491 DEBUG Skipping slash command purgetoken. Disabled! 
+15:56:32.493 DEBUG Skipping slash command purgeuser. Disabled! 
+15:56:32.499 DEBUG Skipping command purge. Disabled! 
+15:56:32.502 DEBUG Skipping command voice. Disabled! 
+15:56:32.508 DEBUG Skipping slash command undeafen. Disabled! 
+15:56:32.513 DEBUG Skipping slash command vmute. Disabled! 
+15:56:32.515 DEBUG Skipping slash command vunmute. Disabled! 
+15:56:32.592 INFO  Loaded 96 commands 
+15:56:32.592 INFO  Loaded 80 slash commands 
+15:56:32.593 INFO  Loading contexts... 
+15:56:32.601 INFO  Loaded 2 USER contexts 
+15:56:32.602 INFO  Loaded 0 MESSAGE contexts 
+15:56:32.602 INFO  Loading events... 
+15:56:32.743 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:56:32.744 INFO  Validating config.js and environment variables 
+15:56:32.745 INFO  Connecting to MongoDb... 
+15:56:33.691 INFO  Mongoose: Database connection established 
+15:56:34.142 INFO  VersionCheck: Your discord bot is up to date 
+15:56:34.142 INFO  Launching dashboard 
+15:56:34.536 INFO  Dashboard is listening on port 8080 
+15:56:35.604 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+15:56:35.604 INFO  Initializing music manager 
+15:56:35.611 INFO  Initializing giveaways manager 
+15:56:35.646 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:56:36.165 INFO  Node "USA Link" connected 
+15:56:40.663 WARN  Node "German Link" is reconnecting 
+15:56:40.684 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:56:45.692 WARN  Node "German Link" is reconnecting 
+15:56:45.702 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:56:50.717 WARN  Node "German Link" is reconnecting 
+15:56:50.725 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:56:55.733 WARN  Node "German Link" is reconnecting 
+15:56:55.745 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+15:57:00.758 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:08:48.133 INFO  Loading commands... 
+16:08:48.285 DEBUG Skipping slash command avatar. Disabled! 
+16:08:48.288 DEBUG Skipping slash command botinvite. Disabled! 
+16:08:48.400 DEBUG Skipping slash command botstats. Disabled! 
+16:08:48.403 DEBUG Skipping slash command channelinfo. Disabled! 
+16:08:48.407 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:08:48.410 DEBUG Skipping slash command guildinfo. Disabled! 
+16:08:48.412 DEBUG Skipping slash command uptime. Disabled! 
+16:08:48.415 DEBUG Skipping slash command userinfo. Disabled! 
+16:08:48.423 DEBUG Skipping command bot. Disabled! 
+16:08:48.425 DEBUG Skipping command info. Disabled! 
+16:08:48.449 DEBUG Skipping slash command deafen. Disabled! 
+16:08:48.452 DEBUG Skipping slash command disconnect. Disabled! 
+16:08:48.457 DEBUG Skipping slash command move. Disabled! 
+16:08:48.460 DEBUG Skipping slash command purge. Disabled! 
+16:08:48.461 DEBUG Skipping slash command purgeattach. Disabled! 
+16:08:48.463 DEBUG Skipping slash command purgebots. Disabled! 
+16:08:48.464 DEBUG Skipping slash command purgelinks. Disabled! 
+16:08:48.465 DEBUG Skipping slash command purgetoken. Disabled! 
+16:08:48.467 DEBUG Skipping slash command purgeuser. Disabled! 
+16:08:48.472 DEBUG Skipping command purge. Disabled! 
+16:08:48.475 DEBUG Skipping command voice. Disabled! 
+16:08:48.480 DEBUG Skipping slash command undeafen. Disabled! 
+16:08:48.483 DEBUG Skipping slash command vmute. Disabled! 
+16:08:48.485 DEBUG Skipping slash command vunmute. Disabled! 
+16:08:48.562 INFO  Loaded 96 commands 
+16:08:48.563 INFO  Loaded 80 slash commands 
+16:08:48.563 INFO  Loading contexts... 
+16:08:48.568 INFO  Loaded 2 USER contexts 
+16:08:48.568 INFO  Loaded 0 MESSAGE contexts 
+16:08:48.568 INFO  Loading events... 
+16:08:48.674 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:08:48.675 INFO  Validating config.js and environment variables 
+16:08:48.675 INFO  Connecting to MongoDb... 
+16:08:49.921 INFO  Mongoose: Database connection established 
+16:08:50.344 INFO  VersionCheck: Your discord bot is up to date 
+16:08:50.345 INFO  Launching dashboard 
+16:08:50.750 INFO  Dashboard is listening on port 8080 
+16:08:51.706 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+16:08:51.706 INFO  Initializing music manager 
+16:08:51.711 INFO  Initializing giveaways manager 
+16:08:51.734 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:08:52.226 INFO  Node "USA Link" connected 
+16:08:56.748 WARN  Node "German Link" is reconnecting 
+16:08:56.765 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:09:01.772 WARN  Node "German Link" is reconnecting 
+16:09:01.837 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:09:06.856 WARN  Node "German Link" is reconnecting 
+16:09:06.874 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:09:11.879 WARN  Node "German Link" is reconnecting 
+16:09:11.896 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:09:16.903 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:15:12.092 INFO  Loading commands... 
+16:15:12.294 DEBUG Skipping slash command avatar. Disabled! 
+16:15:12.297 DEBUG Skipping slash command botinvite. Disabled! 
+16:15:12.455 DEBUG Skipping slash command botstats. Disabled! 
+16:15:12.460 DEBUG Skipping slash command channelinfo. Disabled! 
+16:15:12.464 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:15:12.467 DEBUG Skipping slash command guildinfo. Disabled! 
+16:15:12.470 DEBUG Skipping slash command uptime. Disabled! 
+16:15:12.476 DEBUG Skipping slash command userinfo. Disabled! 
+16:15:12.484 DEBUG Skipping command bot. Disabled! 
+16:15:12.490 DEBUG Skipping command info. Disabled! 
+16:15:12.517 DEBUG Skipping slash command deafen. Disabled! 
+16:15:12.521 DEBUG Skipping slash command disconnect. Disabled! 
+16:15:12.525 DEBUG Skipping slash command move. Disabled! 
+16:15:12.528 DEBUG Skipping slash command purge. Disabled! 
+16:15:12.530 DEBUG Skipping slash command purgeattach. Disabled! 
+16:15:12.532 DEBUG Skipping slash command purgebots. Disabled! 
+16:15:12.534 DEBUG Skipping slash command purgelinks. Disabled! 
+16:15:12.536 DEBUG Skipping slash command purgetoken. Disabled! 
+16:15:12.537 DEBUG Skipping slash command purgeuser. Disabled! 
+16:15:12.546 DEBUG Skipping command purge. Disabled! 
+16:15:12.548 DEBUG Skipping command voice. Disabled! 
+16:15:12.555 DEBUG Skipping slash command undeafen. Disabled! 
+16:15:12.560 DEBUG Skipping slash command vmute. Disabled! 
+16:15:12.561 DEBUG Skipping slash command vunmute. Disabled! 
+16:15:12.681 INFO  Loaded 96 commands 
+16:15:12.681 INFO  Loaded 80 slash commands 
+16:15:12.681 INFO  Loading contexts... 
+16:15:12.691 INFO  Loaded 2 USER contexts 
+16:15:12.691 INFO  Loaded 0 MESSAGE contexts 
+16:15:12.692 INFO  Loading events... 
+16:15:12.812 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:15:12.812 INFO  Validating config.js and environment variables 
+16:15:12.813 INFO  Connecting to MongoDb... 
+16:15:13.688 INFO  Mongoose: Database connection established 
+16:15:14.416 INFO  VersionCheck: Your discord bot is up to date 
+16:15:14.417 INFO  Launching dashboard 
+16:15:14.827 INFO  Dashboard is listening on port 8080 
+16:15:15.923 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+16:15:15.923 INFO  Initializing music manager 
+16:15:15.928 INFO  Initializing giveaways manager 
+16:15:15.975 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:15:16.413 INFO  Node "USA Link" connected 
+16:15:20.985 WARN  Node "German Link" is reconnecting 
+16:15:20.994 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:15:25.997 WARN  Node "German Link" is reconnecting 
+16:15:26.125 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:15:40.788 INFO  Loading commands... 
+16:15:40.970 DEBUG Skipping slash command avatar. Disabled! 
+16:15:40.975 DEBUG Skipping slash command botinvite. Disabled! 
+16:15:41.102 DEBUG Skipping slash command botstats. Disabled! 
+16:15:41.108 DEBUG Skipping slash command channelinfo. Disabled! 
+16:15:41.114 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:15:41.119 DEBUG Skipping slash command guildinfo. Disabled! 
+16:15:41.122 DEBUG Skipping slash command uptime. Disabled! 
+16:15:41.127 DEBUG Skipping slash command userinfo. Disabled! 
+16:15:41.143 DEBUG Skipping command bot. Disabled! 
+16:15:41.146 DEBUG Skipping command info. Disabled! 
+16:15:41.177 DEBUG Skipping slash command deafen. Disabled! 
+16:15:41.183 DEBUG Skipping slash command disconnect. Disabled! 
+16:15:41.187 DEBUG Skipping slash command move. Disabled! 
+16:15:41.191 DEBUG Skipping slash command purge. Disabled! 
+16:15:41.193 DEBUG Skipping slash command purgeattach. Disabled! 
+16:15:41.195 DEBUG Skipping slash command purgebots. Disabled! 
+16:15:41.196 DEBUG Skipping slash command purgelinks. Disabled! 
+16:15:41.198 DEBUG Skipping slash command purgetoken. Disabled! 
+16:15:41.200 DEBUG Skipping slash command purgeuser. Disabled! 
+16:15:41.207 DEBUG Skipping command purge. Disabled! 
+16:15:41.210 DEBUG Skipping command voice. Disabled! 
+16:15:41.215 DEBUG Skipping slash command undeafen. Disabled! 
+16:15:41.218 DEBUG Skipping slash command vmute. Disabled! 
+16:15:41.220 DEBUG Skipping slash command vunmute. Disabled! 
+16:15:41.297 INFO  Loaded 96 commands 
+16:15:41.297 INFO  Loaded 80 slash commands 
+16:15:41.297 INFO  Loading contexts... 
+16:15:41.304 INFO  Loaded 2 USER contexts 
+16:15:41.304 INFO  Loaded 0 MESSAGE contexts 
+16:15:41.304 INFO  Loading events... 
+16:15:41.456 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:15:41.458 INFO  Validating config.js and environment variables 
+16:15:41.459 INFO  Connecting to MongoDb... 
+16:15:42.118 INFO  Mongoose: Database connection established 
+16:15:42.511 INFO  VersionCheck: Your discord bot is up to date 
+16:15:42.511 INFO  Launching dashboard 
+16:15:43.018 INFO  Dashboard is listening on port 8080 
+16:15:44.081 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+16:15:44.081 INFO  Initializing music manager 
+16:15:44.086 INFO  Initializing giveaways manager 
+16:15:44.115 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:15:44.495 INFO  Node "USA Link" connected 
+16:15:44.718 INFO  Successfully registered slash commands 
+16:15:49.126 WARN  Node "German Link" is reconnecting 
+16:15:49.138 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:15:54.150 WARN  Node "German Link" is reconnecting 
+16:15:54.158 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:15:59.165 WARN  Node "German Link" is reconnecting 
+16:15:59.180 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:16:04.196 WARN  Node "German Link" is reconnecting 
+16:16:04.206 ERROR getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+{"errno":-3008,"code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"ger.lavalink.mitask.tech"}
+Error: getaddrinfo ENOTFOUND ger.lavalink.mitask.tech
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26) 
+16:16:09.216 ERROR Unable to connect after 5 attempts.
+{}
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\Development\Other\Rainford Helper\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+16:20:03.361 INFO  Loading commands... 
+16:20:03.562 DEBUG Skipping slash command avatar. Disabled! 
+16:20:03.565 DEBUG Skipping slash command botinvite. Disabled! 
+16:20:03.786 DEBUG Skipping slash command botstats. Disabled! 
+16:20:03.793 DEBUG Skipping slash command channelinfo. Disabled! 
+16:20:03.797 DEBUG Skipping slash command emojiinfo. Disabled! 
+16:20:03.804 DEBUG Skipping slash command guildinfo. Disabled! 
+16:20:03.808 DEBUG Skipping slash command uptime. Disabled! 
+16:20:03.813 DEBUG Skipping slash command userinfo. Disabled! 
+16:20:03.833 DEBUG Skipping command bot. Disabled! 
+16:20:03.843 DEBUG Skipping command info. Disabled! 
+16:20:03.930 DEBUG Skipping slash command deafen. Disabled! 
+16:20:03.935 DEBUG Skipping slash command disconnect. Disabled! 
+16:20:03.949 DEBUG Skipping slash command move. Disabled! 
+16:20:03.954 DEBUG Skipping slash command purge. Disabled! 
+16:20:03.960 DEBUG Skipping slash command purgeattach. Disabled! 
+16:20:03.969 DEBUG Skipping slash command purgebots. Disabled! 
+16:20:04.001 DEBUG Skipping slash command purgelinks. Disabled! 
+16:20:04.010 DEBUG Skipping slash command purgetoken. Disabled! 
+16:20:04.015 DEBUG Skipping slash command purgeuser. Disabled! 
+16:20:04.029 DEBUG Skipping command purge. Disabled! 
+16:20:04.035 DEBUG Skipping command voice. Disabled! 
+16:20:04.054 DEBUG Skipping slash command undeafen. Disabled! 
+16:20:04.064 DEBUG Skipping slash command vmute. Disabled! 
+16:20:04.066 DEBUG Skipping slash command vunmute. Disabled! 
+16:20:04.201 INFO  Loaded 96 commands 
+16:20:04.201 INFO  Loaded 80 slash commands 
+16:20:04.201 INFO  Loading contexts... 
+16:20:04.214 INFO  Loaded 2 USER contexts 
+16:20:04.214 INFO  Loaded 0 MESSAGE contexts 
+16:20:04.215 INFO  Loading events... 
+16:20:04.493 INFO  Loaded 22 events. Success (22) Failed (0) 
+16:20:04.495 INFO  Validating config.js and environment variables 
+16:20:04.496 INFO  Connecting to MongoDb... 
+16:20:05.394 INFO  Mongoose: Database connection established 
+16:20:05.876 INFO  VersionCheck: Your discord bot is up to date 
+16:20:05.876 INFO  Launching dashboard 
+16:20:06.240 INFO  Dashboard is listening on port 8080 
+16:20:07.339 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+16:20:07.340 INFO  Initializing music manager 
+16:20:07.342 INFO  Initializing giveaways manager 
+16:20:07.749 INFO  Node "USA Link" connected 
+16:20:07.776 INFO  Successfully registered slash commands 
+

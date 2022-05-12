@@ -1,0 +1,84 @@
+13:33:35.074 INFO  Loading commands... 
+13:33:35.602 DEBUG Skipping slash command avatar. Disabled! 
+13:33:35.621 DEBUG Skipping slash command botinvite. Disabled! 
+13:33:36.094 DEBUG Skipping slash command botstats. Disabled! 
+13:33:36.116 DEBUG Skipping slash command channelinfo. Disabled! 
+13:33:36.136 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:33:36.156 DEBUG Skipping slash command guildinfo. Disabled! 
+13:33:36.164 DEBUG Skipping slash command uptime. Disabled! 
+13:33:36.184 DEBUG Skipping slash command userinfo. Disabled! 
+13:33:36.223 DEBUG Skipping command bot. Disabled! 
+13:33:36.234 DEBUG Skipping command info. Disabled! 
+13:33:36.371 DEBUG Skipping slash command deafen. Disabled! 
+13:33:36.389 DEBUG Skipping slash command disconnect. Disabled! 
+13:33:36.417 DEBUG Skipping slash command move. Disabled! 
+13:33:36.439 DEBUG Skipping slash command purge. Disabled! 
+13:33:36.448 DEBUG Skipping slash command purgeattach. Disabled! 
+13:33:36.458 DEBUG Skipping slash command purgebots. Disabled! 
+13:33:36.469 DEBUG Skipping slash command purgelinks. Disabled! 
+13:33:36.479 DEBUG Skipping slash command purgetoken. Disabled! 
+13:33:36.488 DEBUG Skipping slash command purgeuser. Disabled! 
+13:33:36.528 DEBUG Skipping command purge. Disabled! 
+13:33:36.539 DEBUG Skipping command voice. Disabled! 
+13:33:36.570 DEBUG Skipping slash command undeafen. Disabled! 
+13:33:36.589 DEBUG Skipping slash command vmute. Disabled! 
+13:33:36.598 DEBUG Skipping slash command vunmute. Disabled! 
+13:33:36.995 INFO  Loaded 96 commands 
+13:33:36.995 INFO  Loaded 80 slash commands 
+13:33:36.996 INFO  Loading contexts... 
+13:33:37.015 INFO  Loaded 2 USER contexts 
+13:33:37.015 INFO  Loaded 0 MESSAGE contexts 
+13:33:37.016 INFO  Loading events... 
+13:33:37.310 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:33:37.310 INFO  Validating config.js and environment variables 
+13:33:37.311 INFO  Connecting to MongoDb... 
+13:33:38.566 INFO  Mongoose: Database connection established 
+13:33:39.017 INFO  VersionCheck: Your discord bot is up to date 
+13:33:39.018 INFO  Launching dashboard 
+13:33:40.837 INFO  Dashboard is listening on port 8080 
+13:33:41.847 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+13:33:41.847 INFO  Initializing music manager 
+13:33:41.851 INFO  Initializing giveaways manager 
+13:33:42.196 INFO  Successfully registered slash commands 
+13:33:42.378 INFO  Node "USA Link" connected 
+13:37:02.125 INFO  Loading commands... 
+13:37:02.276 DEBUG Skipping slash command avatar. Disabled! 
+13:37:02.279 DEBUG Skipping slash command botinvite. Disabled! 
+13:37:02.391 DEBUG Skipping slash command botstats. Disabled! 
+13:37:02.394 DEBUG Skipping slash command channelinfo. Disabled! 
+13:37:02.397 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:37:02.403 DEBUG Skipping slash command guildinfo. Disabled! 
+13:37:02.405 DEBUG Skipping slash command uptime. Disabled! 
+13:37:02.408 DEBUG Skipping slash command userinfo. Disabled! 
+13:37:02.417 DEBUG Skipping command bot. Disabled! 
+13:37:02.420 DEBUG Skipping command info. Disabled! 
+13:37:02.446 DEBUG Skipping slash command deafen. Disabled! 
+13:37:02.450 DEBUG Skipping slash command disconnect. Disabled! 
+13:37:02.455 DEBUG Skipping slash command move. Disabled! 
+13:37:02.458 DEBUG Skipping slash command purge. Disabled! 
+13:37:02.460 DEBUG Skipping slash command purgeattach. Disabled! 
+13:37:02.461 DEBUG Skipping slash command purgebots. Disabled! 
+13:37:02.463 DEBUG Skipping slash command purgelinks. Disabled! 
+13:37:02.465 DEBUG Skipping slash command purgetoken. Disabled! 
+13:37:02.468 DEBUG Skipping slash command purgeuser. Disabled! 
+13:37:02.473 DEBUG Skipping command purge. Disabled! 
+13:37:02.475 DEBUG Skipping command voice. Disabled! 
+13:37:02.479 DEBUG Skipping slash command undeafen. Disabled! 
+13:37:02.485 DEBUG Skipping slash command vmute. Disabled! 
+13:37:02.487 DEBUG Skipping slash command vunmute. Disabled! 
+13:37:02.562 INFO  Loaded 96 commands 
+13:37:02.562 INFO  Loaded 80 slash commands 
+13:37:02.562 INFO  Loading contexts... 
+13:37:02.569 INFO  Loaded 2 USER contexts 
+13:37:02.570 INFO  Loaded 0 MESSAGE contexts 
+13:37:02.570 INFO  Loading events... 
+13:37:02.677 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:37:02.678 INFO  Validating config.js and environment variables 
+13:37:02.679 INFO  Connecting to MongoDb... 
+13:37:03.714 INFO  Mongoose: Database connection established 
+13:37:04.249 INFO  VersionCheck: Your discord bot is up to date 
+13:37:05.350 INFO  Logged in as Rainford Helper#8603! (970817633853247568) 
+13:37:05.350 INFO  Initializing music manager 
+13:37:05.355 INFO  Initializing giveaways manager 
+13:37:05.831 INFO  Successfully registered slash commands 
+13:37:05.864 INFO  Node "USA Link" connected 
